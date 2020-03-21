@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+}
+div.type{
+    padding: 10px;
+}
+div.type div{    
+    cursor: pointer;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid gray;    
+}
+div.type span{
+    float: right;    
+}
+td, th{
+    text-align: center;
+}
